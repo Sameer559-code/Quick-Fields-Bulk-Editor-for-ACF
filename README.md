@@ -5,7 +5,7 @@ Bulk edit Advanced Custom Fields across many WordPress pages in a spreadsheet-st
 **Requires:** [Advanced Custom Fields](https://wordpress.org/plugins/advanced-custom-fields/) (Free or Pro)  
 **Author:** [samsyntax](https://samsyntax.com)  
 **License:** GPLv2 or later  
-**Pro add-on:** [Quickfield Pro](https://samsyntax.com/quickfield-pro)
+**Pro add-on:** [Quickfield Pro](https://samsyntax.com/quickfield)
 
 This plugin is not affiliated with or endorsed by Advanced Custom Fields.
 
@@ -67,7 +67,7 @@ Users with the `manage_options` capability (typically administrators).
 
 ## Pro add-on
 
-The free plugin fully supports bulk text editing. CSV import/export, in-sheet image editing, and clearing image fields are available in the separate [Quickfields Pro](https://samsyntax.com/quickfield-pro) add-on — not locked inside this plugin.
+The free plugin fully supports bulk text editing. CSV import/export, in-sheet image editing, and clearing image fields are available in the separate [Quickfields Pro](https://samsyntax.com/quickfield) add-on — not locked inside this plugin.
 
 ## Changelog
 
@@ -83,7 +83,7 @@ See [`readme.txt`](readme.txt) for the full WordPress.org changelog.
 ## Support
 
 - Website: [samsyntax.com](https://samsyntax.com)
-- Pro / donate: [Quickfield Pro](https://samsyntax.com/quickfield-pro)
+- Pro / donate: [Quickfield Pro](https://samsyntax.com/quickfield)
 
 ## License
 
