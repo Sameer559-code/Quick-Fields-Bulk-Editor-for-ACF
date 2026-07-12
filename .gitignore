@@ -1,0 +1,61 @@
+# OS
+.DS_Store
+.DS_Store?
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+
+# Editors / IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Local / env
+.env
+.env.*
+*.log
+
+# Node / build tooling (if added later)
+node_modules/
+npm-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+dist/
+build/
+.cache/
+
+# Composer (if added later)
+/vendor/
+composer.lock
+
+# WordPress / local stacks often sitting beside the plugin
+wp-config.php
+.htaccess
+
+# Release / packaging artifacts
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# Cursor / agent local files
+.cursor/
+.cursorignore
+
+# Misc junk
+*.bak
+*.tmp
+*.temp
+*.orig
+*.rej
+
+# Local empty/backup folders (not part of the plugin)
+/Quick Fields Editor for ACF/
+/Quick Fields Editor fro ACF/
