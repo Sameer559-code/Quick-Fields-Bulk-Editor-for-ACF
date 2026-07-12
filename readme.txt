@@ -2,7 +2,7 @@
 
 Contributors: kilersam559
 
-Donate link: https://samsyntax.com/quickfield
+Donate link: https://samsyntax.com/products/quickfields
 
 Tags: custom-fields, bulk-edit, advanced-custom-fields, spreadsheet, editor
 
@@ -32,7 +32,7 @@ Bulk edit Advanced Custom Fields across many pages in a spreadsheet-style sheet 
 
 
 
-Built by [samsyntax](https://samsyntax.com). Pro add-on: [Quickfield Pro](https://samsyntax.com/quickfield). This plugin is not affiliated with or endorsed by Advanced Custom Fields.
+Built by [samsyntax](https://samsyntax.com). Pro add-on: [Quickfield Pro](https://samsyntax.com/products/quickfields). This plugin is not affiliated with or endorsed by Advanced Custom Fields.
 
 
 

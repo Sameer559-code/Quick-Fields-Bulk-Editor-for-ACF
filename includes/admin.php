@@ -2,7 +2,7 @@
 if ( ! defined( 'ABSPATH' ) ) exit;
 
 function bwsbfe_pro_add_on_url() {
-    return apply_filters( 'bwsbfe_pro_add_on_url', 'https://samsyntax.com/quickfield' );
+    return apply_filters( 'bwsbfe_pro_add_on_url', 'https://samsyntax.com/products/quickfields' );
 }
 
 /**
@@ -94,7 +94,7 @@ function bwsbfe_render_brand_footer() {
         printf(
             /* translators: %s: author website URL */
             wp_kses_post( __( 'Quickfields by samsyntax — <a href="%s" target="_blank" rel="noopener noreferrer">Learn more</a>', 'quickfields-bulk-editor-for-acf' ) ),
-            esc_url( 'https://samsyntax.com/quickfield' )
+            esc_url( 'https://samsyntax.com/products/quickfields' )
         );
         ?>
     </p>
